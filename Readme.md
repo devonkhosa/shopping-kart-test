@@ -4,6 +4,6 @@ This was a test!
 
 ;^)
 
-v1.0.0 - Old, broken. moved on to v.2.0.0
+v1.0.0 - Old, unfinished, and broken. Have moved on to v.2.0.0!
 
 v2.0.0 - current
