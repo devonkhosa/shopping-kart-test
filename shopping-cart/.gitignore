@@ -1,0 +1,4 @@
+#Ignore the node_modules folder as well as the basic .DS_Store os x
+node_modules
+.DS_Store
+
