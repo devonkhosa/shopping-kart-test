@@ -1,5 +1,5 @@
 const entry_point = (req, res)=> {
-    res.send('Hello world!')
+    res.render('index')
 };
 
 module.exports = entry_point
